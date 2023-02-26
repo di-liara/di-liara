@@ -18,3 +18,6 @@
 
 ### Statistics
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=di-liara&show_icons=true&theme=prussian&bg_color=0D2840&text_color=C7B299&title_color=C7B299&icon_color=ffffff)
+
+### Examples of my work
+[Postman Collection](https://www.postman.com/universal-satellite-896333/workspace/my-public-workspace/collection/23795269-fc41dfbd-218f-433f-a398-ff92f5eedcc1?action=share&creator=23795269)
