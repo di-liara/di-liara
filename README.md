@@ -1,7 +1,7 @@
 ![Header](https://github.com/di-liara/di-liara/blob/main/files/AD.png?raw=true)
 ## Manual QA Engineer With Background In Medicine
 ### My CV
-[CV is here](https://drive.google.com/file/d/1lo-i1IB52sANn906Eq3iAub_ll56uSsw/view?usp=sharing)
+[CV is here](https://drive.google.com/file/d/1RRwYg9eEjgdwr54haDVAtUqy2gV7qF_3/view?usp=share_link)
 ### Tools
 ![Jira](https://img.shields.io/badge/Jira-0D2840?style=for-the-badge&logo=jira&logoColor=136be1)
 ![DevTools](https://img.shields.io/badge/DevTools-0D2840?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
